@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1621345307117,618,HTTP Request,200,Ok,Thread Group 1 1-1,text,true,,183383,111,1,1,https://yandex.ru/,571,0,360
